@@ -1,0 +1,102 @@
+{
+  "0": {
+    "question": "Generalmente me encuentro",
+    "bad": "Completamente aburrido",
+    "good": "Exhuberante, entusiasmado"
+  },
+  "1": {
+    "question": "La vida me parece",
+    "bad": "Completamente rutinaria",
+    "good": "Siempre emocionante"
+  },
+  "2": {
+    "question": "En la vida tengo",
+    "bad": "Ninguna meta o anhelo",
+    "good": "Muchas metas y anhelos"
+  },
+  "3": {
+    "question": "Mi existencia personal es",
+    "bad": "Sin sentido ni propósito",
+    "good": "Llena de sentidos y propósito"
+  },
+  "4": {
+    "question": "Cada día es",
+    "bad": "Exactamente igual",
+    "good": "Siempre nuevo y diferente"
+  },
+  "5": {
+    "question": "Si puediera elegir",
+    "bad": "Nunca habría nacido",
+    "good": "Tendría otras 9 vidas iguales a esta"
+  },
+  "6": {
+    "question": "Después de retirarme",
+    "bad": "Holgazanearía el resto de mi vida",
+    "good": "Haría las cosas emocionantes que siempre quise hacer"
+  },
+  "7": {
+    "question": "En el logro de mis metas vitales",
+    "bad": "No he conseguido ningún progreso",
+    "good": "He llegado a mi realización completa"
+  },
+  "8": {
+    "question": "Mi vida es",
+    "bad": "Vacía y llena de desesperación",
+    "good": "Un conjunto de cosas buenas y emocionantes"
+  },
+  "9": {
+    "question": "Si muriera hoy, me parecería que mi vida ha sido",
+    "bad": "Vacía y llena de desesperación",
+    "good": "Un conjunto de cosas buenas y emocionantes"
+  },
+  "10": {
+    "question": "Al pensar en mi propia vida",
+    "bad": "Me pregunto a menudo la razón por la que existo",
+    "good": "Siempre encuentro razones para vivir"
+  },
+  "11": {
+    "question": "Tal y como yo lo veo en relación con mi vida, el mundo",
+    "bad": "Me confunde por completo",
+    "good": "Se adapta significativamente a mí"
+  },
+  "12": {
+    "question": "Me considero",
+    "bad": "Una persona irresponsable",
+    "good": "Una persona muy responsable"
+  },
+  "13": {
+    "question": "En cuanto a la libertad de que dispone para hacer sus propias elecciones, creo que el hombre es",
+    "bad": "Completamente esclavo de las limitaciones de la herencia y del ambiente",
+    "good": "Absolutamente libre de hacer todas sus elecciones vitales"
+  },
+  "14": {
+    "question": "Con respecto a la muerte, estoy",
+    "bad": "Falto de preparación y atemorizado",
+    "good": "Preparado y sin temor"
+  },
+  "15": {
+    "question": "Con respecto al suicidio",
+    "bad": "Lo he considerado seriamente como una salida a mi situación",
+    "good": "Nunca le he dedicado un segundo pensamiento"
+  },
+  "16": {
+    "question": "Considero que mi capacidad para encontrar un significado, un propósito en la vida es",
+    "bad": "Práctimente nula",
+    "good": "Muy grande"
+  },
+  "17": {
+    "question": "Mi vida está",
+    "bad": "Fuera de mis manos y controlada por factores externos",
+    "good": "En mis manos y bajo control"
+  },
+  "18": {
+    "question": "Enfretarme a mis tareas cotidianas supone",
+    "bad": "Una experiencia dolorosa y aburrida",
+    "good": "Un fuerte placer y satisfacción"
+  },
+  "19": {
+    "question": "He descubierto",
+    "bad": "Ninguna misión o propósito en mi vida",
+    "good": "Metas claras y un propósito satisfactorio para la vida"
+  }
+}
