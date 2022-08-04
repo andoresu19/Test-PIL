@@ -14,7 +14,7 @@
 
 .init {
   width: 100%;
-  max-width: 350px;
+  max-width: 550px;
   margin: auto 0;
 
   display: flex;
@@ -36,4 +36,14 @@
   
 .score {
   font-weight: 1000;
+}
+
+@media (min-width: 700px) {
+  .title {
+    font-size: 38px;
+  }
+
+  .bodyText {
+    font-size:21px;
+  }
 }

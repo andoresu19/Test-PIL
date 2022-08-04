@@ -20,4 +20,10 @@
   opacity: .7;
 }
 
+@media (min-width: 700px) {
+  .button {
+    font-size: 21px;
+    padding: 2px 15px;
+  }
+}
 

@@ -14,7 +14,7 @@
 
 .init {
   width: 100%;
-  max-width: 350px;
+  max-width: 600px;
   margin: auto 0;
 
   display: flex;
@@ -68,4 +68,18 @@
   text-align: center;
   font-size: 18px;
   color: rgb(100, 100, 100);
+}
+
+@media (min-width: 700px) {
+  .title {
+    font-size: 38px;
+  }
+
+  .bodyText, .bodyTextMargin, .importantText {
+    font-size:21px;
+  }
+
+  .slider__option {
+    font-size: 22px;
+  }
 }

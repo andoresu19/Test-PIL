@@ -16,7 +16,7 @@
 
 .init {
   width: 100%;
-  max-width: 350px;
+  max-width: 600px;
   margin: auto 0;
 
   display: flex;
@@ -57,4 +57,14 @@
   font-size: 18px;
   text-align: center;
   color: rgb(100, 100, 100);
+}
+
+@media (min-width: 700px) {
+  .title {
+    font-size: 38px;
+  }
+
+  .subtitle {
+    font-size:21px;
+  }
 }

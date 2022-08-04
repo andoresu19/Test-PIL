@@ -14,7 +14,7 @@
 
 .init {
   width: 100%;
-  max-width: 450px;
+  max-width: 600px;
   height: 100%;
   margin: auto 0;
 
@@ -39,7 +39,7 @@
 }
 
 .slider {
-  width: 70%;
+  width: 65%;
   margin: 40px auto 0 auto;
 }
 
@@ -53,8 +53,8 @@
 }
 
 .slider__option {
-  width: 100%;
-  max-width: 180px;
+  width: 50%;
+  max-width: 40%;
 
   text-align: center;
   font-size: 18px;
@@ -66,5 +66,23 @@
   margin-top: 60px;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
+}
+
+@media (min-width: 700px) {
+  .title {
+    font-size: 38px;
+  }
+
+  .bodyText {
+    font-size:24px;
+  }
+
+  .slider__option {
+    font-size: 24px;
+  }
+
+  .content {
+    padding: 80px 20px;
+  }
 }
