@@ -18,6 +18,7 @@
   width: 100%;
   max-width: 600px;
   margin: auto 0;
+  padding-bottom: 80px;
 
   display: flex;
   flex-direction: column;
@@ -57,6 +58,34 @@
   font-size: 18px;
   text-align: center;
   color: rgb(100, 100, 100);
+}
+
+.icon {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon__image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+.icon__text {
+  line-height: 17px;
+  font-size: 16px;
+  color: rgb(100, 100, 100);
+  font-weight: bold;
+}
+.icon__subtitle {
+  color: #DD9B09;
+  font-family: 'Dancing Script', cursive;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 10px;
 }
 
 @media (min-width: 700px) {
