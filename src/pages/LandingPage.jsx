@@ -1,7 +1,6 @@
 import styles from "./LandingPage.module.css";
 //import image from "../imgs/cactus.png";
 import image from "../imgs/Matera-Dertam.png";
-import image2 from "../imgs/dertam_icon.png";
 import image3 from "../imgs/Dertam para fondo blanco PNG(1).png";
 import { ButtonPrincipal } from "../components/ButtonPrincipal";
 import Div100vh from "react-div-100vh";
