@@ -7,9 +7,10 @@
   align-items: center;
   justify-content: center;
 
-  background: rgb(0, 226, 156);
   border-radius: 30px;
   color: white;
+  background: #D09F30;
+  background: #007EFC;
 
   font-weight: 1000;
   font-size: 16px;

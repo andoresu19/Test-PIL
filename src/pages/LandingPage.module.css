@@ -45,6 +45,8 @@
 
 .boldColor {
   color: rgb(0, 226, 156);
+  color: #204FA8;
+  color: #007EFC;
 }
 
 .image {
@@ -62,15 +64,14 @@
 
 .icon {
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  bottom: 5px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .icon__image {
-  width: 30px;
+  width: 150px;
   margin-right: 10px;
 }
 
