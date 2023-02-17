@@ -6,15 +6,6 @@ import { ButtonPrincipal } from "../components/ButtonPrincipal";
 import Div100vh from "react-div-100vh";
 
 export function LandingPage() {
-  /*
-          <p className={styles.icon__text}>
-            Brayan Borrero
-            <br />
-            <span className={styles.icon__subtitle}>
-              Asesor académico - desarrollador web
-            </span>
-          </p>
-  */
   return (
     <Div100vh className={styles.content}>
       <div className={styles.init}>
